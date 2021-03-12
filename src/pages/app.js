@@ -1,15 +1,7 @@
-import {Link as GatsbyLink} from "gatsby"
-import PropTypes from "prop-types"
 import React from "react"
 import {
-    useColorMode,
     Button,
-    Flex,
-    Box,
-    Spacer,
     Heading,
-    IconButton,
-    Center,
     Container,
     Text,
     VStack,

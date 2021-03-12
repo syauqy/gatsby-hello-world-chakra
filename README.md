@@ -4,7 +4,7 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
   <a href="https://chakra-ui.com/">
-    <img alt="Chakra UI" src="./src/images/chakra.svg" height="60" />
+    <img alt="Chakra UI" src="https://github.com/syauqy/gatsby-starter-chakra-ui/raw/master/src/images/chakra.svg" height="60" />
   </a>
 </p>
 <h1 align="center">
@@ -12,9 +12,8 @@
 </h1>
 
 A boilerplate with a clean Gatsby project and Chakra UI. This starter will help you kick off your Gatsby project with beautiful and simple UI component library quick and simple.
-Supercharge your site with dark theme from Chakra UI.
 
-![Gatsby-chakra](https://media.giphy.com/media/MgvAvRtfsgGBJO7Fpy/giphy.gif)
+# [Demo](https://gatsby-chakra-boilerplate.vercel.app/)
 
 
 ## 🚀 Quick start
